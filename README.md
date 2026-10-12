@@ -199,7 +199,7 @@ https://github.com/user-attachments/assets/f84fad6f-1e2f-40af-a318-366e3fff8509
       <p>
         <a href="https://github.com/Auvexis"><img src="https://img.shields.io/badge/Auvexis-000000?style=for-the-badge&logo=github&logoColor=white" alt="Auvexis" /></a>
         &nbsp;
-        <a href="mailto:andre.emailto@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+        <a href="mailto:vaurvik@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
       </p>
     </td>
   </tr>
