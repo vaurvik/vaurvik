@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/Banner.png" width="100%" alt="Andre S. Banner" />
+  <img src="./assets/Banner.png" width="100%" alt="Vaurvik Banner" />
 </div>
 
 <br>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="middle">
-      <h3>Andre S. | Fullstack Developer and AI Engineer</h3>
+      <h3>Vaurvik | Fullstack Developer and AI Engineer</h3>
     </td>
   </tr>
   <tr>
