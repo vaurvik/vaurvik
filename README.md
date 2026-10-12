@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://github.com/euandresimoes?tab=followers">
-    <img src="https://img.shields.io/github/followers/euandresimoes?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA+ElEQVRIS+2UvQ3CQAxG7ewAHU0UNzADFDAGDAITwCAwBhQwAzQXZQDYIUYusMLlfnJIEU1ec9Fn5d7J5wShZ1CfemIQRAm2qCzLMwAsmflERBstAIAx5oiIawC4FEWx0oKFU9B4+QsRyeqr2YcQWgJjzB4RtxokwMwHItpp4BHcEXGqQQLM/CCimQYewRMRRxokwMwvIhpr8BfBZ3L0CAm4LrrVoqqq5nVdXzVIIMuyRZ7nNw1cAsE3piFcEyQ4BUJiq7wfm1cgdBlZ12g2CQqEkCS2uRAVCJ52edvSpJNAsC6+0+ZCZ4Eg/ykAmNizHiJJ8AuDIMob2gN0GZPBdg8AAAAQZGVCR0E5MzJGQjc1QjdFOTc4NTD6oUphAAAAAElFTkSuQmCC&logoColor=white&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
+  <a href="https://github.com/vaurvik?tab=followers">
+    <img src="https://img.shields.io/github/followers/vaurvik?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA+ElEQVRIS+2UvQ3CQAxG7ewAHU0UNzADFDAGDAITwCAwBhQwAzQXZQDYIUYusMLlfnJIEU1ec9Fn5d7J5wShZ1CfemIQRAm2qCzLMwAsmflERBstAIAx5oiIawC4FEWx0oKFU9B4+QsRyeqr2YcQWgJjzB4RtxokwMwHItpp4BHcEXGqQQLM/CCimQYewRMRRxokwMwvIhpr8BfBZ3L0CAm4LrrVoqqq5nVdXzVIIMuyRZ7nNw1cAsE3piFcEyQ4BUJiq7wfm1cgdBlZ12g2CQqEkCS2uRAVCJ52edvSpJNAsC6+0+ZCZ4Eg/ykAmNizHiJJ8AuDIMob2gN0GZPBdg8AAAAQZGVCR0E5MzJGQjc1QjdFOTc4NTD6oUphAAAAAElFTkSuQmCC&logoColor=white&label=Followers&labelColor=000000&color=000000" alt="GitHub followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/euandresimoes?tab=stars">
-    <img src="https://img.shields.io/github/stars/euandresimoes?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABD0lEQVRIS+2TwU3EMBBFZ9LDUkDkubA1LAcoA87QAlTAtrCcoQw4QA3sZawUAD1k0EjOaOW1x4nE3vZdYn85eVLmG+HEoK1OxFnQZNEvYuZnfRLR05S1WCr4BoAVEV1Y2GC2IMZ4DwC7tH0IIbyktcsSwTsAXKftRwjhJq1dZgmGYdiM4/hpAQB0XXfV9/2XBRWOBMz8g4grCxYgIr/5fI4ECjO/IuKtBTMQkTciurMgURQoWklEfLTAQUS2tepWBUrWnBpuo1yBot1HxEsLDhCRPRGtLSgwR1AdemmoOa6gVM+cVl1dQTZou1yHl84bsOIKpg+FEIrnYozSutXFFye0RV5DlNYZV/AfnAVN/gDvHm0ZoPxaiQAAABBkZUJHM0IzNEI0RDY5MDE0REMzN17mXM0AAAAASUVORK5CYII=&logoColor=white&labelColor=000000&color=000000" />
+  <a href="https://github.com/vaurvik?tab=stars">
+    <img src="https://img.shields.io/github/stars/vaurvik?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABD0lEQVRIS+2TwU3EMBBFZ9LDUkDkubA1LAcoA87QAlTAtrCcoQw4QA3sZawUAD1k0EjOaOW1x4nE3vZdYn85eVLmG+HEoK1OxFnQZNEvYuZnfRLR05S1WCr4BoAVEV1Y2GC2IMZ4DwC7tH0IIbyktcsSwTsAXKftRwjhJq1dZgmGYdiM4/hpAQB0XXfV9/2XBRWOBMz8g4grCxYgIr/5fI4ECjO/IuKtBTMQkTciurMgURQoWklEfLTAQUS2tepWBUrWnBpuo1yBot1HxEsLDhCRPRGtLSgwR1AdemmoOa6gVM+cVl1dQTZou1yHl84bsOIKpg+FEIrnYozSutXFFye0RV5DlNYZV/AfnAVN/gDvHm0ZoPxaiQAAABBkZUJHM0IzNEI0RDY5MDE0REMzN17mXM0AAAAASUVORK5CYII=&logoColor=white&labelColor=000000&color=000000" />
   </a>
   &nbsp;
   <a href="https://github.com/euandresimoes">
